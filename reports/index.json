@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-173302-ijwd",
+      "title": "R A D E E, Swag Senpai",
+      "commanders": [
+        "R A D E E",
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-04-27T00:33:02.000Z",
+      "dateEnd": "2026-04-27T02:29:14.000Z",
+      "dateLabel": "4/26/2026, 5:33:02 PM - 4/26/2026, 7:29:14 PM",
+      "url": "https://BDRAgw2.github.io/gvg/?report=20260426-173302-ijwd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260424-192906-yebn",
       "title": "Papa Akram, Vikidin",
       "commanders": [
