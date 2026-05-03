@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-205926-j2a7",
+      "title": "Vikidin",
+      "commanders": [
+        "Vikidin"
+      ],
+      "dateStart": "2026-05-03T03:59:26.000Z",
+      "dateEnd": "2026-05-03T05:57:54.000Z",
+      "dateLabel": "5/2/2026, 8:59:26 PM - 5/2/2026, 10:57:54 PM",
+      "url": "https://BDRAgw2.github.io/gvg/?report=20260502-205926-j2a7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260502-151247-uxbh",
       "title": "Vikzmer",
       "commanders": [
